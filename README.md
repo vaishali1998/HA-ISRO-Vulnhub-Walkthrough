@@ -11,7 +11,7 @@ nmap -p- 192.168.122.151
 
 ![HA%20ISRO%20~Vulnhub%20Walkthrough%209fc3427ec243459bbf989c0f4b1ed46f/Untitled.png](HA%20ISRO%20~Vulnhub%20Walkthrough%209fc3427ec243459bbf989c0f4b1ed46f/Untitled.png)
 
-nmap -sV -A 192.168.122.151 
+nmap -sV -A 192.168.122.151 (Service Version Scanning)
 
 ![HA%20ISRO%20~Vulnhub%20Walkthrough%209fc3427ec243459bbf989c0f4b1ed46f/Untitled%201.png](HA%20ISRO%20~Vulnhub%20Walkthrough%209fc3427ec243459bbf989c0f4b1ed46f/Untitled%201.png)
 
